@@ -45,4 +45,4 @@
   <img align="center" alt="ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff3366&height=120&section=footer"/>
+<img src="https://imgur.com/rilHVxA.png"/>
