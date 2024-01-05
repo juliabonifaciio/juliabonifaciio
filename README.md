@@ -7,24 +7,34 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juliafariia&bg_color=0d1117&color=ffffff&line=ff3366&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p>
-  <div align="center">  
+<br>
+<br>
+
+<div align="center">
+  <div style="display: flex; justify-content: center;">
     <img 
-      width="49%" 
-      height="195px" 
+      style="width: 49%; height: 195px;" 
       src="https://github-readme-stats.vercel.app/api?username=juliafariia&theme=radical&rank_icon=github&title_color=ff3366&show_icons=true&border_color=ff3366&custom_title=Stats" 
       alt="Julia Faria Github Stats"
-    /> 
+    />
     <img 
-      width="41%" 
-      height="195px" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliafariia&layout=compact&hide_border=true&title_color=ff3366&text_color=ff3366&bg_color=0d1117" 
+      style="width: 49%; height: 195px;" 
+      src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juliafariia&theme=radical"
+      alt="Repos per Language"
     />
   </div>
   <br>
-</p>
+</div>
 
-<div>
+<br>
+<br>
+
+  ##
+
+<br>
+<br>
+
+<div align="center">
   <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
@@ -34,7 +44,5 @@
   <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 </div>
-  
-  ##
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff3366&height=120&section=footer"/>
