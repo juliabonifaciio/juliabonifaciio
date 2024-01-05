@@ -7,19 +7,22 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juliafariia&bg_color=0d1117&color=ffffff&line=ff3366&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">  
-  <img 
-    width="49%" 
-    height="195px" 
-    src="https://github-readme-stats.vercel.app/api?username=juliafariia&show_icons=true&count_private=true&hide_border=true&title_color=ff3366&icon_color=ff3366&text_color=c9d1d9&bg_color=0d1117" 
-    alt="Julia Faria Github Stats"
-  /> 
-  <img 
-    width="41%" 
-    height="195px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliafariia&layout=compact&hide_border=true&title_color=ff3366&text_color=ff3366&bg_color=0d1117" 
-  />
-</div>
+<p>
+  <div align="center">  
+    <img 
+      width="49%" 
+      height="195px" 
+      src="https://github-readme-stats.vercel.app/api?username=juliafariia&theme=radical&rank_icon=github&title_color=ff3366&show_icons=true&border_color=ff3366&custom_title=Stats" 
+      alt="Julia Faria Github Stats"
+    /> 
+    <img 
+      width="41%" 
+      height="195px" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliafariia&layout=compact&hide_border=true&title_color=ff3366&text_color=ff3366&bg_color=0d1117" 
+    />
+  </div>
+  <br>
+</p>
 
 <div>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
