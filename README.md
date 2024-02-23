@@ -23,18 +23,21 @@
     <tr>
       <td valign="top" width="33%">
         <div align="center">Frontend</div>
+        <br>
         <p align="center">
           <img src="https://skillicons.dev/icons?i=html,css,js,react,ts&theme=dark&perline=3"/>
         </p>
       </td>
       <td valign="top" width="33%">
         <div align="center">Backend</div>
+        <br>
         <p align="center">
           <img src="https://skillicons.dev/icons?i=nodejs,php&theme=dark&perline=3"/>
         </p>
       </td>
       <td valign="top" width="33%">
         <div align="center">Tools</div>
+        <br>
         <p align="center">
           <img src="https://skillicons.dev/icons?i=git,github,mysql,vscode&theme=dark&perline=3"/>
         </p>
