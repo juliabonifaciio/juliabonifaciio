@@ -11,7 +11,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juliafariia&theme=tokyonight)
 
 <br>
-<br>
 
 ##
 
