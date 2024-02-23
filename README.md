@@ -9,6 +9,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=juliafariia&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juliafariia&theme=tokyonight)
+<img align="right" height="200" src="https://i.imgur.com/Tznn1IZ.gif"/>
 
 <br>
 
