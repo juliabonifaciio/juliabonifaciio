@@ -5,10 +5,10 @@
 <br>
 <br>
 
-<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juliafariia&theme=tokyonight"/>
+<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juliabonifaciio&theme=tokyonight"/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=juliafariia&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juliafariia&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=juliabonifaciio&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juliabonifaciio&theme=tokyonight)
 
 <br>
 
