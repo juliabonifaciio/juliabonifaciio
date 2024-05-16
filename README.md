@@ -5,17 +5,21 @@
 <br>
 
 <div align="center">
-  <img src="./ReadmeGIF.gif" alt="GIF" width="800"/>
+  <img src="./ReadmeGIF.gif" alt="GIF" width="685"/>
 </div>
 
 <br>
 
 <div align="center">
-<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juliabonifaciio&theme=dracula"/>
-
+  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=juliabonifaciio&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juliabonifaciio&theme=dracula)
+
+<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juliabonifaciio&theme=dracula"/>
+
 </div> 
+
+<br>
 
 ##
 
