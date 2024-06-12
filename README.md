@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="./ReadmeGIF.gif" alt="GIF" width="685"/>
+  <img src="./GIF.gif" alt="GIF" width="685"/>
 </div>
 
 ##
