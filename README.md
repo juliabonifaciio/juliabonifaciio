@@ -8,49 +8,27 @@
   <img src="./ReadmeGIF.gif" alt="GIF" width="685"/>
 </div>
 
-<br>
-
-<div align="center">
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=juliabonifaciio&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juliabonifaciio&theme=dracula)
-
-<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juliabonifaciio&theme=dracula"/>
-
-</div> 
-
-<br>
-
 ##
 
 <br>
 
-<div style="width: 49%;">
-  <table align="center">
-    <tr>
-      <td valign="top" width="33%">
-        <div align="center">Frontend</div>
-        <br>
-        <p align="center">
-          <img src="https://skillicons.dev/icons?i=html,css,js,react,ts&theme=dark&perline=3"/>
-        </p>
-      </td>
-      <td valign="top" width="33%">
-        <div align="center">Backend</div>
-        <br>
-        <p align="center">
-          <img src="https://skillicons.dev/icons?i=nodejs,php&theme=dark&perline=3"/>
-        </p>
-      </td>
-      <td valign="top" width="33%">
-        <div align="center">Tools</div>
-        <br>
-        <p align="center">
-          <img src="https://skillicons.dev/icons?i=git,github,mysql,vscode&theme=dark&perline=3"/>
-        </p>
-      </td>
-    </tr>
-  </table>
+<div align="center">
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=juliabonifaciio&theme=dracula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juliabonifaciio&theme=dracula)
+  
+</div> 
+
+<br>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DB7093&height=120&section=footer"/>
