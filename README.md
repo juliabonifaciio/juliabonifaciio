@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">Meu nome é Julia Bonifacio e sou estudante do curso de Análise e Desenvolvimento de Sistemas na Etec de Itaquaquecetuba. Tenho experiência como desenvolvedora web e mobile, com foco especial em front-end, onde utilizo principalmente a biblioteca React para criar interfaces dinâmicas e responsivas.<br><br>Atualmente, estou ampliando meus conhecimentos na área de desenvolvimento mobile, explorando o uso do React Native em conjunto com o Expo, que me permite criar aplicações eficientes e de alto desempenho. Estou sempre em busca de desafios que me permitam aplicar minhas habilidades e aprender novas tecnologias, contribuindo para o desenvolvimento de soluções inovadoras.</p>
+  Meu nome é **Julia Bonifacio** e sou estudante do curso de **Análise e Desenvolvimento de Sistemas** na **Etec de Itaquaquecetuba**. Tenho experiência como desenvolvedora web e mobile, com foco especial em **front-end**, onde utilizo principalmente a biblioteca **React** para criar interfaces dinâmicas e responsivas.
+  
+  <br>
+  
+  Atualmente, estou ampliando meus conhecimentos na área de desenvolvimento **mobile**, explorando o uso do React Native em conjunto com o **Expo** e **Node.js**, que me permite criar aplicações eficientes e de alto desempenho. Estou sempre em busca de desafios que me permitam aplicar minhas habilidades e aprender novas tecnologias, contribuindo para o desenvolvimento de soluções inovadoras.
 
 ###
 
