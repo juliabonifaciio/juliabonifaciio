@@ -8,6 +8,9 @@
   
   Atualmente, estou ampliando meus conhecimentos na área de desenvolvimento **mobile**, explorando o uso do React Native em conjunto com o **Expo** e **Node.js**, que me permite criar aplicações eficientes e de alto desempenho. Estou sempre em busca de desafios que me permitam aplicar minhas habilidades e aprender novas tecnologias, contribuindo para o desenvolvimento de soluções inovadoras.
 
+  <br>
+  <br>
+    
 ###
 
 <div align="center">
