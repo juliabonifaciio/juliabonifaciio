@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img width="90%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juliabonifaciio&theme=tokyonight" />
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juliabonifaciio&theme=tokyonight" />
 </p>
 
 ##
