@@ -4,10 +4,6 @@
 
 <br>
 
-<p align="center">
-  <img width="80%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juliabonifaciio&theme=tokyonight" />
-</p>
-
 <div align="center">
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=juliabonifaciio&theme=tokyonight)
@@ -16,5 +12,19 @@
 </div> 
 
 <br>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+</div>
+
+###
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6eab96&height=120&section=footer"/>
