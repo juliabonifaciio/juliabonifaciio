@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6eab96&height=120&section=header"/>
 
-<h1 align="center">
-  Hello, how are you sir?
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=180&size=40&duration=4000&pause=500&color=6eab96&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+sir!;You+are+very+welcome!)](https://git.io/typing-svg)
 
-###
+##
+
+  <br>
 
   Meu nome é **Julia Bonifacio** e sou estudante do curso de **Análise e Desenvolvimento de Sistemas** na **Etec de Itaquaquecetuba**. Tenho experiência como desenvolvedora web e mobile, com foco especial em **front-end**, onde utilizo principalmente a biblioteca **React** para criar interfaces dinâmicas e responsivas.
   
