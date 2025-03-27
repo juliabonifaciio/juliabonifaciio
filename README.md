@@ -27,13 +27,13 @@
       <td valign="top" width="33%">
         <h3 align="center">Frontend</h3>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=react,typescript,javascript&theme=dark&perline=3" />
+          <img src="https://skillicons.dev/icons?i=react,javascript,typescript&theme=dark&perline=3" />
         </p>
       </td>
       <td valign="top" width="33%">
         <h3 align="center">Backend</h3>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=nodejs,php,java&theme=dark&perline=3" />
+          <img src="https://skillicons.dev/icons?i=php,nodejs,java&theme=dark&perline=3" />
         </p>
       </td>
     </tr>
