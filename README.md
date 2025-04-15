@@ -1,10 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=766593&height=120&section=header" />
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=500&color=766593&center=true&vCenter=true&width=1000&lines=Hello+World!;Welcome+to+my+profile!;I+am+a+Full-Stack+and+Mobile+Developer." alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
+    <img src="./GitHubHeader.jpg" height="550" alt="stats graph"  />
+</div>
 
 <br></br>
 
@@ -38,5 +36,10 @@
       </td>
     </tr>
   </table>
+
+<br></br>
+
+> "O futuro será daqueles que se dedicarem à ciência, à tecnologia e à inovação."  
+> **— Nikola Tesla**
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=766593&height=120&section=footer" />
