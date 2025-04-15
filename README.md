@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=766593&height=120&section=header" />
 
 <div align="center">
-    <img src="./Banner.jpg" height="540" width="960" alt="Banner"  />
+    <img src="./Banner.jpg" height="360" width="640" alt="Banner"  />
 </div>
 
 <br></br>
