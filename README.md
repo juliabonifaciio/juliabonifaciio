@@ -39,7 +39,7 @@
 
 <br></br>
 
-> "O futuro será daqueles que se dedicarem à ciência, à tecnologia e à inovação."  
+> "O desenvolvimento do homem depende fundamentalmente da invenção. É o produto mais importante de seu cérebro criador."  
 > **— Nikola Tesla**
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=766593&height=120&section=footer" />
