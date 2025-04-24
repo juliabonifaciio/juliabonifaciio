@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=766593&height=120&section=header" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=766593&size=45&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!;I+am+a+Computer+Engineer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=766593&size=30&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!;I+am+a+Computer+Engineer.)](https://git.io/typing-svg)
 
 <div align="center">
-    <img src="./Octocat.png" alt="Octocat"  />
+    <img src="./Octocat.png" alt="Octocat" height="500px" width="500px"/>
 </div>
 
 <br></br>
