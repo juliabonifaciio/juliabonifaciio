@@ -3,13 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=766593&size=30&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!;I+am+a+Computer+Engineer.)](https://git.io/typing-svg)
 
 <div align="center">
-    <img src="./Octocat.png" alt="Octocat" height="500px" width="500px"/>
+    <img src="./Octocat.png" alt="Octocat" height="400px" width="400px"/>
 </div>
 
 <br></br>
 
 <h1> 👩🏼‍💻 About Me </h1>
-  <h3> I am a software developer with two years of programming experience, specializing in the React ecosystem. My current focus is on mobile development using React Native and Expo. </h3>
+  <h3> I am a full-stack software developer with skills in React, PHP, and MySQL, currently pursuing a degree in Computer Engineering. My academic focus is on exploring advanced technologies such as AWS, Artificial Intelligence, and Quantum Computing. </h3>
 
 <br></br>
 
