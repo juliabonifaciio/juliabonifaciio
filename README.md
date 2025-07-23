@@ -41,7 +41,7 @@
 
 <br></br>
 
-> "O desenvolvimento do homem depende fundamentalmente da invenção. É o produto mais importante de seu cérebro criador."  
+> "Invention is the most important product of the creative human brain."  
 > **— Nikola Tesla**
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=766593&height=120&section=footer" />
