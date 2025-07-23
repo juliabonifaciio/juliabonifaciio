@@ -9,7 +9,7 @@
 <br></br>
 
 <h1> 👩🏼‍💻 About Me </h1>
-  <h3> I am a full-stack software developer with skills in React, PHP, and MySQL, currently pursuing a degree in Computer Engineering. My academic focus is on exploring advanced technologies such as AWS, Artificial Intelligence, and Quantum Computing. </h3>
+  <h3> I am a full-stack software developer with skills in React, PHP, and MySQL, currently pursuing a degree in AI. My academic focus is on exploring advanced technologies such as AWS, and Quantum Computing. </h3>
 
 <br></br>
 
