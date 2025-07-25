@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=766593&height=120&section=header" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8d41e5&height=120&section=header" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=766593&size=40&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!;I+am+a+System+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8d41e5&size=40&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!;I+am+a+System+Developer.)](https://git.io/typing-svg)
 
 <div align="center">
     <img src="./Octocat.png" alt="Octocat" height="400px" width="400px"/>
@@ -15,9 +15,9 @@
 
 <h1> 🔗 GitHub Stats </h1>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=juliabonifaciio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=nightowl&locale=pt-br&hide_border=true&order=1&custom_title=Estat%C3%ADsticas" height="180" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juliabonifaciio&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true&order=2&custom_title=Linguagens" height="180" alt="languages graph"  />
-</div>
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=juliabonifaciio&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" alt="Julia Bonifacio GitHub Stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliabonifaciio&layout=compact&hide_border=true&theme=midnight-purple" />
+  </div>
 
 <br></br>
 
@@ -44,4 +44,4 @@
 > "Invention is the most important product of the creative human brain."  
 > **— Nikola Tesla**
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=766593&height=120&section=footer" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8d41e5&height=120&section=footer" />
