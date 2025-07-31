@@ -14,10 +14,11 @@
 <br></br>
 
 <h1> 🔗 GitHub Stats </h1>
-  <div align="center">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=juliabonifaciio&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" alt="Julia Bonifacio GitHub Stats" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliabonifaciio&layout=compact&hide_border=true&theme=midnight-purple" />
-  </div>
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=juliabonifaciio&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" alt="Julia Bonifacio GitHub Stats" style="width: 49%; height: 195px;" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliabonifaciio&layout=compact&hide_border=true&theme=midnight-purple" alt="Top Langs" style="width: 41%; height: 195px;" />
+</div>
 
 <br></br>
 
