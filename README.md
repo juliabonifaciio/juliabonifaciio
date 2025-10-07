@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8d41e5&height=120&section=header" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8d41e5&size=40&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!;I+am+a+System+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8d41e5&size=40&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!;I+am+a+AI+Student.)](https://git.io/typing-svg)
 
 <div align="center">
     <img src="./Octocat.png" alt="Octocat" height="400px" width="400px"/>
@@ -9,7 +9,7 @@
 <br></br>
 
 <h1> 👩🏼‍💻 About Me </h1>
-  <h3> I am a full-stack software developer with skills in React, PHP, and MySQL, currently pursuing a degree in AI. My academic focus is on exploring advanced technologies such as AWS, and Quantum Computing. </h3>
+  <h3> I’m an Artificial Intelligence student at FIAP, focusing on Python, SQL, Machine Learning, and AWS. I’m also deeply curious about Quantum Computing and how these technologies can be leveraged to advance AI development. </h3>
 
 <br></br>
 
@@ -34,7 +34,7 @@
       <td valign="top" width="33%">
         <h3 align="center">Backend</h3>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=php,nodejs,java&theme=dark&perline=3" />
+          <img src="https://skillicons.dev/icons?i=python,r,c&theme=dark&perline=3" />
         </p>
       </td>
     </tr>
