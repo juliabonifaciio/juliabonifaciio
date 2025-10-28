@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8d41e5&size=40&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!;I+am+a+AI+Student.)](https://git.io/typing-svg)
 
-<div align="center">
-    <img src="./Octocat.png" alt="Octocat" height="400px" width="400px"/>
-</div>
-
 <br></br>
 
 <h1> 👩🏼‍💻 About Me </h1>
