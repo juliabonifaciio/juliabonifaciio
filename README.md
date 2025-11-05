@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8d41e5&height=120&section=header" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a8b3ff&height=120&section=header" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8d41e5&size=40&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!;I+am+a+AI+Student.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a8b3ff&size=40&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!;I+am+a+AI+Student.)](https://git.io/typing-svg)
 
 <br></br>
 
@@ -11,9 +11,9 @@
 
 <h1> 🔗 GitHub Stats </h1>
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=juliabonifaciio&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" alt="Julia Bonifacio GitHub Stats" style="width: 49%; height: 195px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juliabonifaciio&show_icons=true&count_private=true&hide_border=true&theme=apprentice" alt="Julia Bonifacio GitHub Stats" style="width: 49%; height: 195px;" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliabonifaciio&layout=compact&hide_border=true&theme=midnight-purple" alt="Top Langs" style="width: 41%; height: 195px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliabonifaciio&layout=compact&hide_border=true&theme=apprentice" alt="Top Langs" style="width: 41%; height: 195px;" />
 </div>
 
 <br></br>
@@ -41,4 +41,4 @@
 > "Invention is the most important product of the creative human brain."  
 > **— Nikola Tesla**
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8d41e5&height=120&section=footer" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a8b3ff&height=120&section=footer" />
