@@ -9,15 +9,6 @@
 
 <br></br>
 
-<h1> 🔗 GitHub Stats </h1>
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=juliabonifaciio&show_icons=true&count_private=true&hide_border=true&theme=apprentice" alt="Julia Bonifacio GitHub Stats" style="width: 49%; height: 195px;" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliabonifaciio&layout=compact&hide_border=true&theme=apprentice" alt="Top Langs" style="width: 41%; height: 195px;" />
-</div>
-
-<br></br>
-
 <h1> <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35" /> Technologies </h1>
   <table align="center">
     <tr>
