@@ -2,7 +2,35 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a8b3ff&size=40&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!;I+am+a+AI+Student.)](https://git.io/typing-svg)
 
-<br></br>
+<br clear="both">
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/juliabonifaciio" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"
+         height="25"
+         alt="LinkedIn" />
+  </a>
+
+  <a href="https://www.instagram.com/juliabonifaciio" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge"
+         height="25"
+         alt="Instagram" />
+  </a>
+
+  <a href="https://wa.me/5511980336967" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge"
+         height="25"
+         alt="WhatsApp" />
+  </a>
+</div>
+
+###
 
 <h1> 👩🏼‍💻 About Me </h1>
   <h3> I’m an Artificial Intelligence student at FIAP, focusing on Python, SQL, Machine Learning, and AWS. I’m also deeply curious about Quantum Computing and how these technologies can be leveraged to advance AI development. </h3>
